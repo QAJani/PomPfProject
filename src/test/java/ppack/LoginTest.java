@@ -1,5 +1,10 @@
 package ppack;
 
+import org.testng.annotations.Test;
+
 public class LoginTest {
-    WebDriver driver; 
+    @Test
+    public void login() {
+
+    }
 }
